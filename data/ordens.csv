@@ -1,0 +1,100 @@
+id_ordem,id_equipamento,tipo_manutencao,data_inicio,data_fim,status
+OM001,EQ001,corretiva,2026-01-05,2026-01-07,concluída
+OM002,EQ003,inspeção,2026-01-06,2026-01-06,concluída
+OM003,EQ008,corretiva,2026-01-08,2026-01-11,concluída
+OM004,EQ005,preventiva,2026-01-09,2026-01-09,concluída
+OM005,EQ018,corretiva,2026-01-12,2026-01-13,concluída
+OM006,EQ010,inspeção,2026-01-13,2026-01-13,concluída
+OM007,EQ001,preventiva,2026-01-15,2026-01-15,concluída
+OM008,EQ020,corretiva,2026-01-16,2026-01-18,concluída
+OM009,EQ033,inspeção,2026-01-19,2026-01-19,concluída
+OM010,EQ003,corretiva,2026-01-21,2026-01-23,concluída
+OM011,EQ011,preventiva,2026-01-22,2026-01-22,concluída
+OM012,EQ014,inspeção,2026-01-24,2026-01-24,concluída
+OM013,EQ008,preventiva,2026-01-27,2026-01-27,concluída
+OM014,EQ005,corretiva,2026-01-28,2026-01-30,concluída
+OM015,EQ002,inspeção,2026-01-29,2026-01-29,concluída
+OM016,EQ001,corretiva,2026-02-03,2026-02-05,concluída
+OM017,EQ010,preventiva,2026-02-04,2026-02-04,concluída
+OM018,EQ018,inspeção,2026-02-06,2026-02-06,concluída
+OM019,EQ033,corretiva,2026-02-07,2026-02-09,concluída
+OM020,EQ006,preventiva,2026-02-10,2026-02-10,concluída
+OM021,EQ008,inspeção,2026-02-11,2026-02-11,concluída
+OM022,EQ020,preventiva,2026-02-12,2026-02-12,concluída
+OM023,EQ003,inspeção,2026-02-13,2026-02-13,concluída
+OM024,EQ015,corretiva,2026-02-14,2026-02-14,concluída
+OM025,EQ005,inspeção,2026-02-17,2026-02-17,concluída
+OM026,EQ001,preditiva,2026-02-18,2026-02-18,concluída
+OM027,EQ022,corretiva,2026-02-19,2026-02-21,concluída
+OM028,EQ011,inspeção,2026-02-20,2026-02-20,concluída
+OM029,EQ007,preventiva,2026-02-23,2026-02-23,concluída
+OM030,EQ018,corretiva,2026-02-24,2026-02-26,concluída
+OM031,EQ008,corretiva,2026-02-25,2026-02-27,concluída
+OM032,EQ010,preditiva,2026-02-26,2026-02-26,concluída
+OM033,EQ033,preventiva,2026-02-27,2026-02-27,concluída
+OM034,EQ003,preventiva,2026-03-02,2026-03-02,concluída
+OM035,EQ005,corretiva,2026-03-03,2026-03-05,concluída
+OM036,EQ026,inspeção,2026-03-04,2026-03-04,concluída
+OM037,EQ001,inspeção,2026-03-05,2026-03-05,concluída
+OM038,EQ014,corretiva,2026-03-06,2026-03-07,concluída
+OM039,EQ008,preditiva,2026-03-09,2026-03-09,concluída
+OM040,EQ020,inspeção,2026-03-10,2026-03-10,concluída
+OM041,EQ011,corretiva,2026-03-11,2026-03-12,concluída
+OM042,EQ018,preventiva,2026-03-13,2026-03-13,concluída
+OM043,EQ033,inspeção,2026-03-16,2026-03-16,concluída
+OM044,EQ006,corretiva,2026-03-17,2026-03-18,concluída
+OM045,EQ002,preventiva,2026-03-18,2026-03-18,concluída
+OM046,EQ010,corretiva,2026-03-19,2026-03-21,concluída
+OM047,EQ005,preventiva,2026-03-20,2026-03-20,concluída
+OM048,EQ003,corretiva,2026-03-23,2026-03-25,concluída
+OM049,EQ024,inspeção,2026-03-24,2026-03-24,concluída
+OM050,EQ001,preventiva,2026-03-25,2026-03-25,concluída
+OM051,EQ025,inspeção,2026-03-26,2026-03-26,concluída
+OM052,EQ008,corretiva,2026-03-26,2026-03-27,em andamento
+OM053,EQ033,corretiva,2026-03-27,2026-03-27,em andamento
+OM054,EQ004,inspeção,2026-01-07,2026-01-07,concluída
+OM055,EQ009,preventiva,2026-01-10,2026-01-10,concluída
+OM056,EQ016,inspeção,2026-01-14,2026-01-14,concluída
+OM057,EQ013,preventiva,2026-01-20,2026-01-20,concluída
+OM058,EQ019,inspeção,2026-01-23,2026-01-23,concluída
+OM059,EQ021,inspeção,2026-01-27,2026-01-27,concluída
+OM060,EQ012,preventiva,2026-01-30,2026-01-30,concluída
+OM061,EQ023,inspeção,2026-02-02,2026-02-02,concluída
+OM062,EQ017,inspeção,2026-02-05,2026-02-05,concluída
+OM063,EQ029,preventiva,2026-02-09,2026-02-09,concluída
+OM064,EQ004,corretiva,2026-02-13,2026-02-14,concluída
+OM065,EQ013,inspeção,2026-02-16,2026-02-16,concluída
+OM066,EQ027,inspeção,2026-02-19,2026-02-19,concluída
+OM067,EQ031,preventiva,2026-02-20,2026-02-20,concluída
+OM068,EQ016,corretiva,2026-02-24,2026-02-25,concluída
+OM069,EQ009,inspeção,2026-02-27,2026-02-27,concluída
+OM070,EQ021,corretiva,2026-03-02,2026-03-03,concluída
+OM071,EQ019,preventiva,2026-03-04,2026-03-04,concluída
+OM072,EQ023,preventiva,2026-03-06,2026-03-06,concluída
+OM073,EQ029,inspeção,2026-03-09,2026-03-09,concluída
+OM074,EQ012,inspeção,2026-03-11,2026-03-11,concluída
+OM075,EQ031,inspeção,2026-03-13,2026-03-13,concluída
+OM076,EQ004,preventiva,2026-03-16,2026-03-16,concluída
+OM077,EQ017,corretiva,2026-03-17,2026-03-18,concluída
+OM078,EQ030,inspeção,2026-03-19,2026-03-19,concluída
+OM079,EQ027,preventiva,2026-03-20,2026-03-20,em andamento
+OM080,EQ032,inspeção,2026-03-23,2026-03-23,concluída
+OM081,EQ034,inspeção,2026-01-08,2026-01-08,concluída
+OM082,EQ028,inspeção,2026-01-16,2026-01-16,concluída
+OM083,EQ030,preventiva,2026-01-22,2026-01-22,em andamento
+OM084,EQ034,preventiva,2026-02-03,2026-02-03,concluída
+OM085,EQ028,corretiva,2026-02-17,2026-02-18,concluída
+OM086,EQ032,preventiva,2026-02-23,2026-02-23,concluída
+OM087,EQ030,corretiva,2026-03-03,2026-03-04,concluída
+OM088,EQ015,inspeção,2026-01-15,2026-01-15,concluída
+OM089,EQ015,preventiva,2026-02-10,2026-02-10,concluída
+OM090,EQ022,inspeção,2026-01-20,2026-01-20,em andamento
+OM091,EQ022,preditiva,2026-03-05,2026-03-05,concluída
+OM092,EQ024,preventiva,2026-02-06,2026-02-06,concluída
+OM093,EQ014,inspeção,2026-03-14,2026-03-14,concluída
+OM094,EQ006,inspeção,2026-01-26,2026-01-26,em andamento
+OM095,EQ007,inspeção,2026-03-10,2026-03-10,concluída
+OM096,EQ002,corretiva,2026-03-12,2026-03-13,concluída
+OM097,EQ019,corretiva,2026-03-24,2026-03-26,em andamento
+OM098,EQ009,corretiva,2026-03-17,2026-03-18,em andamento
+OM099,EQ013,corretiva,2026-02-28,2026-03-01,em andamento

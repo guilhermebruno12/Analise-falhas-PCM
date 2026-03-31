@@ -1,0 +1,66 @@
+id_falha,id_ordem,causa,tempo_parada_h
+F001,OM001,inspeção técnica de rotina,0.5
+F002,OM002,obstrução no fluxo de materiais,4.2
+F003,OM003,verificação visual,0
+F004,OM004,análise de vibração periódica,0
+F005,OM005,ajuste de componentes móveis,1.2
+F006,OM006,quebra de correia transportadora,6.5
+F007,OM007,inspeção programada,0.8
+F008,OM008,monitoramento térmico,0
+F009,OM009,lubrificação de mancais,1.0
+F010,OM010,desgaste excessivo de revestimento,7.8
+F011,OM011,verificação de integridade,0.5
+F012,OM012,coleta de óleo para análise,0
+F013,OM013,troca preventiva de filtros,1.5
+F014,OM014,vazamento em conexão de reagentes,3.4
+F015,OM015,inspeção de segurança,0
+F016,OM016,checagem de sensores,0.5
+F017,OM017,revisão de motor elétrico,1.2
+F018,OM018,curto-circuito em painel,5.5
+F019,OM019,limpeza de filtros,0.5
+F020,OM020,inspeção termográfica,0
+F021,OM021,manutenção preventiva trimestral,2.0
+F022,OM022,falha no inversor de frequência,4.0
+F023,OM023,inspeção de rotina,0
+F024,OM024,teste de carga,0.5
+F025,OM025,revisão de sistema hidráulico,2.5
+F026,OM026,rolamento danificado,8.0
+F027,OM027,verificação de fiação externa,0.5
+F028,OM028,alinhamento a laser,1.5
+F029,OM029,troca de óleo e filtros,2.0
+F030,OM030,aquecimento excessivo de cabos,3.2
+F031,OM031,inspeção de válvulas,0.5
+F032,OM032,limpeza de contatos elétricos,1.0
+F033,OM033,revisão geral de componentes,3.0
+F034,OM034,entupimento de peneira,4.5
+F035,OM035,inspeção estrutural,0
+F036,OM036,análise de ruído,0
+F037,OM037,tensionamento de correia,1.2
+F038,OM038,quebra de componente mecânico,5.8
+F039,OM039,inspeção de rotina,0
+F040,OM040,verificação de folgas,0.5
+F041,OM041,lubrificação programada,1.0
+F042,OM042,falha de comunicação CLP,2.5
+F043,OM043,inspeção periódica,0
+F044,OM044,ensaio de isolamento,0
+F045,OM045,troca de gaxetas,2.0
+F046,OM046,sobrecarga no sistema,3.8
+F047,OM047,checagem de nível de óleo,0.5
+F048,OM048,monitoramento de condição,0
+F049,OM049,limpeza de bicos pulverizadores,1.5
+F050,OM050,correção de vazamento de ar,2.2
+F051,OM051,inspeção programada,0
+F052,OM052,análise de parâmetros,0
+F053,OM053,troca de lâmpadas/sensores,1.0
+F054,OM054,atuação de proteção elétrica,4.5
+F055,OM055,inspeção visual,0
+F056,OM056,medição de resistência,0.5
+F057,OM057,revisão do sistema de ar,1.8
+F058,OM058,travamento de engrenagem,7.2
+F059,OM059,limpeza de tanque,0.5
+F060,OM060,verificação de software,0
+F061,OM061,ajuste de sensores de posição,1.2
+F062,OM062,queima de fusível principal,2.8
+F063,OM063,inspeção técnica,0
+F064,OM064,check-list de segurança,0.5
+F065,OM065,troca de correias em V,2.5
