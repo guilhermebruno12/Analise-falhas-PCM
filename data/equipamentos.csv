@@ -1,4 +1,4 @@
-id_equipamento, nome, setor, criticidade
+id_equipamento,nome,setor,criticidade
 EQ001,Britador Primário,britagem,alta
 EQ002,Britador Secundário,britagem,média
 EQ003,Peneira Vibratória 01,britagem,alta
@@ -14,8 +14,9 @@ EQ012,Caixa de Bomba 01,manutenção,média
 EQ013,Caixa de Bomba 02,manutenção,média
 EQ014,Tanque de HCL,reagentes,alta
 EQ015,Tanque de Soda Cáustica,reagentes,alta
+EQ016,Esteira de Retorno,britagem,média
 EQ017,Tanque de Flotação Nb,reagentes,média
-EQ018,Tanque de Flotação SiO2, reagentes,média
+EQ018,Tanque de Flotação SiO2,reagentes,média
 EQ019,Empilhadeira de Minério,britagem,alta
 EQ020,Alimentador de Sapata,britagem,média
 EQ021,CCM,elétrica,alta
@@ -25,7 +26,7 @@ EQ024,Transformador,elétrica,média
 EQ025,Painel de Controle,elétrica,alta
 EQ026,Tanque de ar comprimido,manutenção,baixa
 EQ027,Compressor de ar,manutenção,baixa
-EQ0280,Caixa d'água,manutenção,baixa
+EQ028,Caixa d'água,manutenção,baixa
 EQ029,Ventilador de resfriamento,manutenção,baixa
 EQ030,Sistema de iluminação,elétrica,média
 EQ031,Sistema de câmeras,elétrica,alta
